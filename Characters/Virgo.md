@@ -3,7 +3,7 @@
 * **Fate**: 3
 
 # Aspects
-* *[Cthonian](../Factions/Cthonian.md) Defector*
+* *[Cthonian](../Factions/Cthonians.md) Defector*
 * *Famed for thieving from [Monster](../Details/Monsters.md) Cities*
 * *Has a pet Octopus, Slappy*
 * *[Debauchery Duo](../Factions/Debauchery.md) with [Aquarius](Aquarius.md)*
