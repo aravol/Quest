@@ -1,0 +1,2 @@
+# Debauchery Duo, famed thieves
+The Debauchery Duo was [Virgo](../Characters/Virgo.md) and [Aquarius](../Characters/Aquarius.md), who have since joined the crew of the [*Silence*](Silence.md). Despite their name, or perhaps as a tactic against their less witting victims, they were more likely to snatch their marks in the dead of night than engage in carousing or grifting.

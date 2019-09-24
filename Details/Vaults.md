@@ -1,0 +1,2 @@
+# Vaults, the treasure everyone wants and nobody knows
+Vaults are massive caches of ancient technology scattered underneath the sea of Europa. No one actually knows what they contain, but the quest for them grows ever more dire and violent, not only as the [Factions](../Factions/Factions.md) vie for power, but also as [Monster](Monsters.md) appearances and other natural disasters continue to rise.
