@@ -1,5 +1,6 @@
 # Player Characters, the MCs of the Azure Moon
 The following are the characters controlled directly by players;
+
 | Character | Status | Player |
 | --------- | ------ | ------ |
 | [Odysseus](Odysseus.md) | Alive | Jason

@@ -9,6 +9,7 @@
 * *[Debauchery Duo](../Factions/Debauchery.md) with [Virgo](Virgo.md)*
 
 # Approaches
+
 | Careful | Clever | Flashy | Forceful | Quick | Sneaky |
 | ------- | ------ | ------ | -------- | ----- | ------ |
 | Mediocre | Average | Fair | Average | Good | Fair |

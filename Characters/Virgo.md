@@ -9,6 +9,7 @@
 * *[Debauchery Duo](../Factions/Debauchery.md) with [Aquarius](Aquarius.md)*
   
 # Approaches
+
 | Careful | Clever | Flashy | Forceful | Quick | Sneaky |
 | ------- | ------ | ------ | -------- | ----- | ------ |
 | Fair | Average | Mediocre | Average | Fair | Good |

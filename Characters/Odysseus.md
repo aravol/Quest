@@ -10,6 +10,7 @@
 * *Hated by ocean life*
 
 # Approaches
+
 | Careful | Clever | Flashy | Forceful | Quick | Sneaky |
 | ------- | ------ | ------ | -------- | ----- | ------ |
 | Fair | Average | Average | Good | Fair | Mediocre |

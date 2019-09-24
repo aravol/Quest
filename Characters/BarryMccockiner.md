@@ -10,6 +10,7 @@
 * *Wants to find a way to control [The Weave](../Details/Weave.md) without his gauntlet*
 
 # Approaches
+
 | Careful | Clever | Flashy | Forceful | Quick | Sneaky |
 | ------- | ------ | ------ | -------- | ----- | ------ |
 | Fair | Good | Fair | Mediocre | Average | Average |
