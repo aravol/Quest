@@ -3,7 +3,7 @@
 * **Fate**: 3
 
 # Aspects
-* *Gotta go fast flipper finned [fish](../Factions/Native.md)*
+* *Gotta go fast flipper finned [fish](../Factions/Natives.md)*
 * *Famed for thieving from [Monster](../Details/Monsters.md) Cities*
 * *Pet Water Bear*
 * *[Debauchery Duo](../Factions/Debauchery.md) with [Virgo](Virgo.md)*
