@@ -1,3 +1,3 @@
 # Sahuaguin, the Frog people of Europa
 
-Approximately 5% of Sahuaguin are naturally born with four-arms, about the same rate at which [Humans] experience left-handedness. Due to their conflicts with the [Cthonians](../Factions/Cthoniasn), however, most [Native](../Factions/Native) aligned Sahuaguin look down on such individuals, even going as far as to have such mutations surgically "corrected."
+Approximately 5% of Sahuaguin are naturally born with four-arms, about the same rate at which [Humans] experience left-handedness. Due to their conflicts with the [Cthonians](../../Factions/Cthoniasn), however, most [Native](../../Factions/Native) aligned Sahuaguin look down on such individuals, even going as far as to have such mutations surgically "corrected."

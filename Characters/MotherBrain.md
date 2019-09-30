@@ -1,6 +1,6 @@
 # Mother Brain; Immobile, but hardly docile
 
-A huge, pulsating mass of tentacles resembling a brain sitting in the heart of [Boulder's](../Locations/Boulder) ground Zero
+A huge, pulsating mass of tentacles resembling a brain sitting in the heart of [Boulder's](../../Locations/Boulder) ground Zero
 
 ## Aspects
 * *Immobile, but hardly docile* (FoQCa)
