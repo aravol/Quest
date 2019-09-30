@@ -20,3 +20,8 @@
 * +2 to Clever when using Overcome with tech
 * Ability to pierce [AT Fields](../Details/ATFields.md) from a distance
 * +2 To Attck when using the Weave
+
+# Status
+* **Consequences**
+  * **Moderate**: Suit Failing as of [Session 1](../Logs/Session1)
+  * **Severe**: Concussed as of [Session 1](../Logs/Session1)
