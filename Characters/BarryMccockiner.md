@@ -7,7 +7,7 @@
 * *My Tech works most of the time*
 * *Collector of tech and maker*
 * *Always has some sort of tech for any situation*
-* *Wants to find a way to control [The Weave](../Details/Weave.md) without his gauntlet*
+* *Wants to find a way to control [The Weave](../Details/Weave) without his gauntlet*
 
 # Approaches
 
@@ -18,7 +18,7 @@
 # Stunts
 * +2 to Clever when gaingin advantage from using the Weave
 * +2 to Clever when using Overcome with tech
-* Ability to pierce [AT Fields](../Details/ATFields.md) from a distance
+* Ability to pierce [AT Fields](../Details/ATFields) from a distance
 * +2 To Attck when using the Weave
 
 # Status

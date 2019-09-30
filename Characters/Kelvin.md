@@ -3,5 +3,5 @@ The pilot and guide of [Silence](Silence), Kelvin is a four-armed [Sahuaguin](..
 
 ## Aspects
 * *Four arms in constant motion*
-* *[Native](../Factions/Natives.md) Defector*
+* *[Native](../Factions/Natives) Defector*
 * *Ace undersea pilot*

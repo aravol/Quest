@@ -1,2 +1,2 @@
 # Spartan Suits, the weapons of the future
-Power armor capable of projecting and thus penetrating [AT Fields](ATFields.md), Spartan suits are the future of combat, and a necessary tool against [Monsters](Monsters.md).
+Power armor capable of projecting and thus penetrating [AT Fields](ATFields), Spartan suits are the future of combat, and a necessary tool against [Monsters](Monsters).
