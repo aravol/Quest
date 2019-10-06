@@ -1,2 +1,3 @@
 # AT Fields
-AT Fields are impenetrable, psychic forcefields projected by [Monsters](Monsters.md) and [Spartan Suits](SpartanSuits.md). Since the only thing that an penetrate an AT Field are other AT Fields or [Weave](Weave.md) effects, the Spartan suits are necessary for combating those that have them. Due to the fact that AT Fields are inherently willed into being, they can only rarely extend beyond they user themselves, and thus necessitate melee combat against other AT Fields.
+
+AT Fields are nigh-impenetrable, psychic forcefields projected by [Monsters](Monsters.md) and [Spartan Suits](SpartanSuits.md). Since the only thing that an penetrate an AT Field are other AT Fields or [Weave](Weave.md) effects, the Spartan suits are necessary for combating those that have them. Due to the fact that AT Fields are inherently willed into being, they can only rarely extend beyond they user themselves, and thus necessitate melee combat against other AT Fields.
