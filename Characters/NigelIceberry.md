@@ -1,4 +1,4 @@
 # Nigel Archibald Iceberry, Smashing Ecoterrorist
 
-# Aspects
+## Aspects
 * *Smashing Ecoterrorist*
