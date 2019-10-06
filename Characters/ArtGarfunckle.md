@@ -5,4 +5,4 @@ Mr. Garfunckle is the mad entrpeneur of the *Silence*, both hoping to strike it 
 ## Aspects
 * *Eccentric Entrepeneur*
 * *As Rich as he is mad*
-* *"[Simon](../Simon), do the thing!"*
+* *"[Simon](Simon.md), do the thing!"*
