@@ -9,8 +9,8 @@
 ## City
 * *Ruined Cityscape*
 * *Patrolled by the dead*
-	* Any checks which fail here or further in introduce a [Shambling Spartan](../../Characters/ShamblingSpartan) to the Scene
+	* Any checks which fail here or further in introduce a [Shambling Spartan](../Characters/ShamblingSpartan.md) to the Scene
 
 ## Ground Zero
 * *Glassed Crater*
-* *[Mother Brain](../../Characters/MotherBrain) sees all!*
+* *[Mother Brain](../Characters/MotherBrain.md) sees all!*
