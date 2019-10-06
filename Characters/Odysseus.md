@@ -2,20 +2,20 @@
 * **Refresh**: 2
 * **Fate**: 2
 
-# Aspects
+## Aspects
 * *Spartan Warrior*
 * *Has random spurts of madness*
 * *Searching for a cure for his planet & self*
 * *Enjoys Exploration*
 * *Hated by ocean life*
 
-# Approaches
+## Approaches
 
 | Careful | Clever | Flashy | Forceful | Quick | Sneaky |
 | ------- | ------ | ------ | -------- | ----- | ------ |
 | Fair | Average | Average | Good | Fair | Mediocre |
 
-# Stunts
+## Stunts
 * **Returning Spear**: Can choose to have the spear deconstruct and digistruct back in hand
 * **AT Projection Shield**: +2 on Forceful defense in melee
 * **Robotic Spartan Kick**: Can ignore scale difference when moving creatures

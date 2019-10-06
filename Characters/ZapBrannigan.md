@@ -1,6 +1,6 @@
 # Zap Brannigan, the Sexy
 
-# Aspects
+## Aspects
 * *Shoot first, ask questions never*
 * *25-star commander of the [United Space](../Factions/UnitedSpace.md)*
 * *Leading the no-doubt-ecologically-unstable Terraforming project for the sheer glory*
