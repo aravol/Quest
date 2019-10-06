@@ -8,3 +8,4 @@ The system is [Fate Accelerated](https://fate-srd.com/fate-accelerated/get-start
 # Logs
 * [Session 0](Logs/Session0.md); world, setting, and character creation
 * [Session 1](Logs/Session1.md); Mother Brain, Undead, and other things that nearly killed Barry
+* [Session 2](Logs.Session2.md); To be played 10/6/2019
