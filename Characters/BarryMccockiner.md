@@ -23,5 +23,4 @@
 
 ## Status
 * **Consequences**
-  * **Moderate**: Suit Failing as of [Session 1](../Logs/Session1.md)
-  * **Severe**: Concussed as of [Session 1](../Logs/Session1.md)
+  * **Severe**: Punch-drunk as of [Session 2](../Logs/Session2.md)
